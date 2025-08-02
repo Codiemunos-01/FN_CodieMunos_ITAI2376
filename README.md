@@ -1,4 +1,3 @@
-# FN_CodieMunos_ITAI2376
 Research Assistant AI Agent
 # FN_CodieMunos_ITAI2376
 My name is Codie Munos and I am in ITAI 2376.
